@@ -95,10 +95,10 @@ console.log(mohaneshwaran.motto());
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Mohanesh5047">
+  <a href="https://github.com/Mohan5047">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohanesh5047&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/Mohanesh5047">
+  <a href="https://github.com/Mohan5047">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanesh5047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
@@ -108,13 +108,13 @@ console.log(mohaneshwaran.motto());
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanesh5047&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohan5047&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohanesh5047&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohan5047&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ## 💼 Work Experience
@@ -137,9 +137,9 @@ console.log(mohaneshwaran.motto());
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[CollabSphere](https://github.com/Mohanesh5047)** — Real-Time Collaborative Learning & Project Management Platform | React.js, TypeScript, Node.js, Express.js, PostgreSQL, Socket.IO, JWT | Full-stack platform for teams, projects, tasks & learning resources; real-time messaging via Socket.IO/WebSockets; REST APIs + PostgreSQL modules for auth, teams, courses; JWT-based role access & secure auth |
-| **[EcoVA](https://github.com/Mohanesh5047)** — Environmental / Sustainability Platform | React.js, Node.js, PostgreSQL | User-friendly platform for monitoring an environmental/sustainability problem; core features, DB integration & responsive UI built end-to-end |
-| **[IoT Smart Vehicle Speed Monitor](https://github.com/Mohanesh5047)** — Real-Time Speed Monitoring Dashboard | ESP32, HTML, CSS, JavaScript, Wi-Fi | Real-time vehicle speed monitoring dashboard on ESP32; wireless communication integration; responsive live web interface |
+| **[CollabSphere](https://github.com/Mohan5047)** — Real-Time Collaborative Learning & Project Management Platform | React.js, TypeScript, Node.js, Express.js, PostgreSQL, Socket.IO, JWT | Full-stack platform for teams, projects, tasks & learning resources; real-time messaging via Socket.IO/WebSockets; REST APIs + PostgreSQL modules for auth, teams, courses; JWT-based role access & secure auth |
+| **[EcoVA](https://github.com/Mohan5047)** — Environmental / Sustainability Platform | React.js, Node.js, PostgreSQL | User-friendly platform for monitoring an environmental/sustainability problem; core features, DB integration & responsive UI built end-to-end |
+| **[IoT Smart Vehicle Speed Monitor](https://github.com/Mohan5047)** — Real-Time Speed Monitoring Dashboard | ESP32, HTML, CSS, JavaScript, Wi-Fi | Real-time vehicle speed monitoring dashboard on ESP32; wireless communication integration; responsive live web interface |
 
 </div>
 
